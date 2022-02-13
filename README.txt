@@ -23,16 +23,14 @@
   I've used standard python data analysis packages, including pandas, numpy, matplotlib, and seaborn.
   In addition, glob is imported to load .csv data files.
 
-  Presently, the code only tests the linear regression model on a test sample of the supplied data sets, so there
-  is no user input or interaction.
+  Presently, the code only tests the linear-regression model on a test sample of the supplied data sets, so there
+  is no user input or interaction, aside from choosing features on which the linear-regression model will be trained.
   A future development may be to allow users to input values for the features manually, and utilise the
-  linear regression model to predict the car's market price.
+  linear-regression model to predict the car's market price.
 
 3. How to Install and Run the Project
-  The .py file included was developed using Atom, and can be run using
-    python3 project1_code2.ipynb
-  from a terminal.
-  User car data sets will need to be downloaded and stored in the local folder to be loaded, or the project1_code2.ipynb code can be amended to
+  The Jupyter notebook .ipynb file included was developed using Atom, and is called project1_code2.ipynb. 
+  Used-car data sets will need to be downloaded and stored in the local folder to be loaded, or the project1_code2.ipynb code can be amended to
   the files' location.
 
 5. How to Use the Project
