@@ -30,9 +30,9 @@
 
 3. How to Install and Run the Project
   The .py file included was developed using Atom, and can be run using
-    python3 project1_code.py
+    python3 project1_code2.ipynb
   from a terminal.
-  User car data sets will need to be stored in the local folder to be loaded, or the project1_code.py code can be amended to
+  User car data sets will need to be downloaded and stored in the local folder to be loaded, or the project1_code2.ipynb code can be amended to
   the files' location.
 
 5. How to Use the Project
