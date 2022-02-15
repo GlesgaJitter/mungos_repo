@@ -1,7 +1,10 @@
-1. Project's Title
-  Introductory investigation into UK used car sales.
+Introductory investigation into UK used car sales.
+  
+  Contents:
+  1. Project Description
+  2. How to Install and Run the Project
 
-2. Project Description
+1. Project Description
   In this project we investigate and draw inferences on the UK used car market.
   The work focusses on public-domain data, obtained from UK-based Kaggle user adityadesai13:
   # https://www.kaggle.com/adityadesai13/used-car-dataset-ford-and-mercedes
@@ -28,16 +31,8 @@
   A future development may be to allow users to input values for the features manually, and utilise the
   linear-regression model to predict the car's market price.
 
-3. How to Install and Run the Project
+2. How to Install and Run the Project
   The Jupyter notebook .ipynb file included was developed using Atom, and is called project1_code2.ipynb. 
   Used-car data sets will need to be downloaded and stored in the local folder to be loaded, or the project1_code2.ipynb code can be amended to
   the files' location.
 
-5. How to Use the Project
-  TBD
-6. Include Credits
-  TBD
-7. Add a License
-  TBD
-8. Include Tests
-  TBD
