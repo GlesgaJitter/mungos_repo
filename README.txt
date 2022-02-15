@@ -32,7 +32,7 @@ Introductory investigation into UK used car sales.
   linear-regression model to predict the car's market price.
 
 2. How to Install and Run the Project
-  The Jupyter notebook .ipynb file included was developed using Atom, and is called project1_code2.ipynb. 
-  Used-car data sets will need to be downloaded and stored in the local folder to be loaded, or the project1_code2.ipynb code can be amended to
+  The Jupyter notebook .ipynb file included was developed using Atom, and is called used_car_code.ipynb. 
+  Used-car data sets will need to be downloaded and stored in the local folder to be loaded, or the used_car_code.ipynb code can be amended to
   the files' location.
 
